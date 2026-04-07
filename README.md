@@ -4,15 +4,10 @@
 
 Project ini bertujuan untuk menganalisis faktor-faktor yang mempengaruhi apakah sebuah lagu dapat menjadi viral.
 
-Analisis ini relevan untuk:
-
-* 🎵 Music label → menentukan strategi rilisan
-* 🎤 Artist → memahami karakter lagu populer
-* 📱 Platform streaming → sistem rekomendasi
-
 ---
 
-## 📊 Dataset
+## **Dataset**
+---
 
 Dataset berisi berbagai fitur audio dari lagu, seperti:
 

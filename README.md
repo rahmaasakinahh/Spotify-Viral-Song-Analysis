@@ -23,7 +23,7 @@ Target:
 
 ---
 
-## 🔍 Exploratory Data Analysis
+## Exploratory Data Analysis
 
 Beberapa temuan awal:
 
@@ -33,7 +33,7 @@ Beberapa temuan awal:
 
 ---
 
-## ⚙️ Feature Engineering
+## Feature Engineering
 
 Fitur tambahan yang dibuat:
 
@@ -43,7 +43,7 @@ Fitur tambahan yang dibuat:
 
 ---
 
-## 🤖 Modeling
+## Modeling
 
 Model yang digunakan:
 
@@ -53,25 +53,15 @@ Model yang digunakan:
 
 ---
 
-## 📈 Evaluation
+## Key Insights
 
-Model terbaik: **(ISI PUNYA KAMU)**
-
-Alasan:
-
-* (ISI ANALISIS KAMU, ini penting banget)
+* Faktor paling berpengaruh: 
+* Karakter lagu viral: 
+* Model terbaik: 
 
 ---
 
-## 💡 Key Insights
-
-* Faktor paling berpengaruh: **(isi)**
-* Karakter lagu viral: **(isi)**
-* Model terbaik: **(isi)**
-
----
-
-## 📁 Project Structure
+## Project Structure
 
 ```
 spotify-viral-analysis/
@@ -85,7 +75,7 @@ spotify-viral-analysis/
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ```bash
 pip install -r requirements.txt
